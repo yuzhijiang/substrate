@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/yuzhijiang/substrate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yuzhijiang/TestShell-master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\androidStudioWork" />
+    <option name="cloneParentDir" value="D:\androidStudioWork\TestShell-master" />
   </component>
 </application>
